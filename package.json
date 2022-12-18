@@ -1,0 +1,22 @@
+{
+  "name": "react-ecommerce-amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkdq/react-ecommerce-amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkdq/react-ecommerce-amazon/issues"
+  },
+  "homepage": "https://github.com/dkdq/react-ecommerce-amazon#readme"
+}
